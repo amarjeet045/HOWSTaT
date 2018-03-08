@@ -74,11 +74,11 @@ li.dropdown {
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Quizes</a>
     <div class="dropdown-content">
-      <a href="#">Cricket</a>
-      <a href="#">Hockey</a>
-      <a href="#">Kabbadi</a>
-      <a href="#">Badminton</a>
-      <a href="#">Wrestling</a>
+      <a href="index1.html">Cricket</a>
+      <a href="index2.html">Hockey</a>
+      <a href="index3.html">Kabbadi</a>
+      <a href="index4.html">Badminton</a>
+      <a href="index.html">Wrestling</a>
     </div>
   </li>
   <li><a href="#">ABOUT US</a></li>
