@@ -27,9 +27,10 @@ this is a webpage in which there are multiple levels and hundreds of questions f
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">News <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Page 1-1</a></li>
-            <li><a href="#">Page 1-2</a></li>
-            <li><a href="#">Page 1-3</a></li>
+            <li><a href="#">Hockey</a></li>
+            <li><a href="#">Cricket</a></li>
+            <li><a href="#">Football</a></li>
+            <li><a href="#">World Events</a></li>
           </ul>
         </li>
         <li class="dropdown">
