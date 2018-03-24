@@ -7,11 +7,8 @@
     question: "indian played first test match against?",
     choices: ['Australia',' england ','south Africa','pakistan'],
     correctAnswer: 1
-  }, {
-    question: Who is the only Indian bowler to take 10 wickets in an innings?",
-    choices: [72, 99, 108, 134, 156],
-    correctAnswer: 0"
-  }, {
+  }, 
+ {
     question: "How many uncapped Indian players did the Rajkot franchise buy during the IPL auctions?",
     choices: [4, 5, 6, 12],
     correctAnswer: 3
